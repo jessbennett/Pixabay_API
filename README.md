@@ -2,7 +2,7 @@
 
 *You will need to sign up on PixaBay for your own API key
 
-The upload for this project is slowed do to all the 3rd party media. This is not ideal for professional use.
+The upload for this project is slowed due to all the 3rd party media. This is not ideal for professional use.
 
 ## Quick Start
 
